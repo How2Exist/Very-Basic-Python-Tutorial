@@ -189,17 +189,22 @@ while True:
         print("")
         print("What are loops and how do you use them?")
         print("Loops, as the name suggests, allow for the repitition of something over and over again until a particular conditions is satisfied.")
-        print("The most common loop is the 'for x in range():' loop.")
+        print("The most common loop is the 'for i in range(x):' loop.")
         print("This loop uses an intiger as the x value, and loops from 0 to x-1.")
         print("")
         print("Try testing this out for yourself! Go to your chosen Application/Website and try writing the lines of code (LOS) below")
         print("to try out and familiarize yourself with how you can use loops.")
         print("")
-        print("i = 20")
-        print("for i in range():")
+        print("x = 20")
+        print("for i in range(x):")
         print("     print('looping 20 times')")
         print("")
-        print("You can also use the 'Break' function to prematurely close a loop")
+        print("You dont have to use a variable, you can just type the number in as well.")
+        print("")
+        print("for i in range(2):")
+        print("     print('looping 20 times')")
+        print("")
+        print("You can also use the 'Break' function to prematurely close a loop.")
         print("")
         print("")
         print("")
@@ -207,7 +212,7 @@ while True:
         print("You can also make an 'else' statemet so that once the loop ends, something ELSE happends. Get it?")
         print("")
         print("j = 10")
-        print("for j in range():")
+        print("for i in range(j):")
         print("     print('looping 10 times')")
         print("else:")
         print("     print('Finished Looping')")
@@ -241,7 +246,5 @@ while True:
 
     elif Select == 9 :
         break
-        
-
 
 
