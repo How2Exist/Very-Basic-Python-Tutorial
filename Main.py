@@ -44,7 +44,7 @@ while True:
         print("")
         print("Knowing these basic Data Types is critical to being able to read and write programs in any editor and in any language.")
         print("Try testing this out yourself! Go to your chosen Application/Website and try writing the lines of code (LOS) below")
-        print("to familiarize yourself with what can be defined as an Int(iger), Float(s), Str(ings) and Bool(eans).")
+        print("to familiarize yourself with what can be defined as an Int(iger), Float, Str(ing) and Bool(ean).")
         print("")
         print("")
         print("")
@@ -201,7 +201,7 @@ while True:
         print("")
         print("You dont have to use a variable, you can just type the number in as well.")
         print("")
-        print("for i in range(2):")
+        print("for i in range(20):")
         print("     print('looping 20 times')")
         print("")
         print("You can also use the 'Break' function to prematurely close a loop.")
@@ -246,5 +246,4 @@ while True:
 
     elif Select == 9 :
         break
-
 
